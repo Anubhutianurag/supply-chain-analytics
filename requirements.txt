@@ -4,3 +4,4 @@ pydantic
 streamlit
 seaborn
 matplotlib
+pytest
